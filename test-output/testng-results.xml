@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41917" started-at="2016-11-26T18:09:47Z" finished-at="2016-11-26T18:10:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41917" started-at="2016-11-26T18:09:47Z" finished-at="2016-11-26T18:10:29Z">
+      <class name="home.sample">
+        <test-method status="PASS" signature="login(java.util.HashMap)[pri:0, instance:home.sample@215be6bb]" name="login" duration-ms="41821" started-at="2016-11-26T23:39:47Z" data-provider="DataProvider" finished-at="2016-11-26T23:40:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{second name=khurana, TestID=1, password=oneness, first name=jatin, email=jatinkhuranna@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.util.HashMap)[pri:0, instance:home.sample@215be6bb]" name="login" duration-ms="25551" started-at="2016-11-26T23:39:47Z" data-provider="DataProvider" finished-at="2016-11-26T23:40:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{second name=singh, TestID=3, password=onnasfn, first name=honey, email=dafasfas}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.util.HashMap)[pri:0, instance:home.sample@215be6bb]" name="login" duration-ms="30373" started-at="2016-11-26T23:39:47Z" data-provider="DataProvider" finished-at="2016-11-26T23:40:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{second name=rapper, TestID=4, password=asfagbn, first name=bohemia, email=xzvzxv}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.util.HashMap)[pri:0, instance:home.sample@215be6bb]" name="login" duration-ms="36966" started-at="2016-11-26T23:39:47Z" data-provider="DataProvider" finished-at="2016-11-26T23:40:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{second name=krishna, TestID=2, password=oneness, first name=murali, email=muralikrishna@gmail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- home.sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
